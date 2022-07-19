@@ -1,6 +1,6 @@
-pet_id,	category_id,	category_name,	name,	tags_id,	tags_name,	status,	status_code
-985701,	1,	dog,	Rex,	1,	vacinado,	disponivel,	200
-985702,	2,	cat,	Bichano,	2,	castrado,	vendido,	200
-985703,	3,	fish,	Nemo,	0,		disponivel,	200,
-985704,	2,	cat,	Mingau,	1,	vacinado,	disponivel,	200
-985705,	1,	dog,	Scooby,	1,	vacinado,	vendido,	200
+pet_id,	category_id,	category_name,	name   ,	tags_id,	tags_name,	status    ,	status_code
+985701,	1          ,	dog          ,	Rex    ,	1      ,	vacinado ,	disponivel,	200
+985702,	2          ,	cat          ,	Bichano,	2      ,	castrado ,	vendido   ,	200
+985703,	3          ,	fish         ,	Nemo   ,	0      ,          ,	disponivel, 200
+985704,	2          ,	cat          ,	Mingau ,	1      ,	vacinado ,	disponivel,	200
+985705,	1          ,	dog          ,	Scooby ,	1      ,	vacinado ,	vendido   ,	200
